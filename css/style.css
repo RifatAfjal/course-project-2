@@ -3,6 +3,10 @@
     margin-bottom: 100px;
 }
 
+#home .container {
+    margin-bottom: 150px;
+}
+
 
 
 /* for all button */
@@ -21,6 +25,11 @@
 .navbar.exchange  {
     background-color: #96a0fc;
     padding: 15px 30px;
+}
+
+.navbar-brand img {
+    width: 200px;
+    height: 50px;
 }
 
 .nav-link {
